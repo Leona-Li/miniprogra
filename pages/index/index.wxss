@@ -1,3 +1,5 @@
+@import '../../WebGl/mapbox-gl-0.45.0.wxss';
+
 /**index.wxss**/
 .userinfo {
   display: flex;
