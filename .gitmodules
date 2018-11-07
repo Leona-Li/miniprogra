@@ -1,0 +1,6 @@
+[submodule "NGRMap"]
+	path = NGRMap
+	url = git@code.aliyun.com:palmap/NGRMap.git
+[submodule "LocationSDK"]
+	path = LocationSDK
+	url = git@code.aliyun.com:palmap/web-LocationSDk.git
